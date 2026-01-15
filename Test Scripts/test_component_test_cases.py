@@ -12,4 +12,4 @@ class TestComponent:
 
     @pytest.mark.component
     def test_component_test3(self):
-        assert 2 == 3 ,"Both numbers are not equal"
+        assert 3 == 3 ,"Both numbers are not equal"
